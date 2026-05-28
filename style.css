@@ -1,0 +1,9 @@
+.categories{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+.categories h2{
+    align-items: center;
+}
