@@ -1,12 +1,26 @@
-.categories{
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-
-}
 .categories h2{
     align-items: center;
 }
 .categories p2{
     align-items: center;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #006633;
+    padding: 15px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: gold;
+}
+img {
+    width: 300px;
+    height: auto;
 }
