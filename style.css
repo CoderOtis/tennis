@@ -20,7 +20,11 @@
 .navbar a:hover {
     color: gold;
 }
+
 img {
     width: 300px;
-    height: auto;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
 }
